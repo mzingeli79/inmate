@@ -101,6 +101,7 @@ section p{
     .search-button{
         width: 50%;
         font-size: 18px;
+        text-align:center;
     }
     .inmate-list{
         width: 100%;
